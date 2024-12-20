@@ -1,0 +1,29 @@
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build directories
+build/
+
+# Cache files
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Large cached files from development
+node_modules/.cache/
+
+# Miscellaneous
+*.log
